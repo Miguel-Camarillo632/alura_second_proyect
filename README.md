@@ -45,10 +45,6 @@ Telecom X podría reducir el Churn si:
 ✅ Incentiva contratos anuales (por ejemplo, regalando un mes gratis).
 ✅ Mejora el soporte a clientes que pagan mucho pero llevan poco tiempo.
 
-🛠 Cómo Reproducir el Análisis
-Clonar el repositorio:
-git clone https://github.com/tu-usuario/telecom-churn-analysis.git
-
 Instalar dependencias:
 pip install pandas matplotlib seaborn
 
